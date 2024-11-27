@@ -166,7 +166,7 @@ public class MyAccountsTest extends Utility {
 
     @After
     public void tearDown() {
-        //closeBrowser();
+        closeBrowser();
     }
 
 }

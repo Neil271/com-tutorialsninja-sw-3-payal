@@ -178,6 +178,6 @@ public class LaptopsAndNotebooksTest extends Utility {
 
     @After
     public void tearDown() {
-        //closeBrowser();
+        closeBrowser();
     }
 }

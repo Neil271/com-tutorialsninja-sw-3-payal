@@ -160,6 +160,6 @@ public class DesktopsTest extends Utility {
 
     @After
     public void tearDown() {
-        //closeBrowser();
+        closeBrowser();
     }
 }
